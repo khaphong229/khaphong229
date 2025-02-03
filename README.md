@@ -4,6 +4,6 @@
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=khaphong229&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khaphong229&theme=transparent&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
