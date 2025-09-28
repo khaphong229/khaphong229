@@ -1,6 +1,6 @@
 ## About Me:
 
-🤝 I’m Phong Kha<br>🌱 I’m currently learning Front-end Web
+🤝 I’m Phong Kha<br>🌱 I’m currently learning Web Development
 
 ## GitHub Stats:
 
